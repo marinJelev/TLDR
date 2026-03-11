@@ -1,0 +1,8 @@
+{
+  "name": "tldr-pptx-api",
+  "version": "1.0.0",
+  "description": "Serverless API to generate PPTX for TLDR Daily Digest",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
