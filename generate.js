@@ -136,7 +136,7 @@ module.exports = async (req, res) => {
           });
           slide.addText('WHY IT MATTERS', {
             x: 0.85, y: 5.17, w: 4, h: 0.22,
-            fontSize: 8, bold: true, color: accentColor, fontFace: 'Arial'
+            fontSize: 8, bold: false, color: accentColor, fontFace: 'Arial'
           });
           slide.addText(whyText, {
             x: 0.85, y: 5.42, w: 11.6, h: 0.48,
